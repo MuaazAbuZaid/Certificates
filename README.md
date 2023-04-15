@@ -6,3 +6,4 @@ Certificates
 * [Data Analysis & Visualization from ITI](https://github.com/MuaazAbuZaid/Certificates/blob/main/ITI/Data%20Analyst%20ITI.pdf)
 * [Supervised Machine Learning from Coursera](https://github.com/MuaazAbuZaid/Certificates/blob/main/Coursera/Coursera_SupervisedML.pdf)
 * [Supervised Machine Learning from Coursera "Link to Coursera"](https://www.coursera.org/account/accomplishments/verify/LJLS784H7UBJ)
+* [Introduction to SQL from DataCamp](https://www.datacamp.com/statement-of-accomplishment/course/667db2b24388da024749a994d1fa6471aafad130?raw=1)
