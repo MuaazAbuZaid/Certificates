@@ -9,3 +9,4 @@ Certificates
 * [Introduction to SQL from DataCamp](https://www.datacamp.com/statement-of-accomplishment/course/667db2b24388da024749a994d1fa6471aafad130?share=true)
 * [Intermediate SQL from DataCamp](https://www.datacamp.com/statement-of-accomplishment/course/3cb5f9a2129dd28dacf45a8c199863671521bd74?share=true)
 * [Joining Data in SQL from DataCamp](https://www.datacamp.com/statement-of-accomplishment/course/281f4238a5809134287b9593665372fd770d4a1f?share=true)
+* [Certified Data Scientist Professional](https://github.com/MuaazAbuZaid/Certificates/blob/main/Epsilon%20AI/CDS_Epsilon_AI.pdf)
