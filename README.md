@@ -10,5 +10,5 @@ Certificates
 * [Intermediate SQL from DataCamp](https://www.datacamp.com/statement-of-accomplishment/course/3cb5f9a2129dd28dacf45a8c199863671521bd74?share=true)
 * [Joining Data in SQL from DataCamp](https://www.datacamp.com/statement-of-accomplishment/course/281f4238a5809134287b9593665372fd770d4a1f?share=true)
 * [Certified Data Scientist Professional](https://github.com/MuaazAbuZaid/Certificates/blob/main/Epsilon%20AI/CDS_Epsilon_AI.pdf)
-* [Power BI](https://learn.365datascience.com/c/44eb60e28a/).
-* [Modern Web Scraping with Python using Scrapy Splash Selenium](https://www.udemy.com/certificate/UC-82343d11-5f1a-4077-8476-8acb1245e5cc/).
+* [Power BI from 365 Data Science](https://learn.365datascience.com/c/44eb60e28a/).
+* [Modern Web Scraping with Python using Scrapy Splash Selenium from Udemy](https://www.udemy.com/certificate/UC-82343d11-5f1a-4077-8476-8acb1245e5cc/).
